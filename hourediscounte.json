@@ -1,9 +1,9 @@
 {
     "sa": {
         "offerMessage": "سارع قبل أن ينفد: الخصومات على هذه الخدمة ستنتهي قريبًا! الوقت المتبقي لإنهاء العرض:",
-        
-        
-        "viewersText": "عرضه الآن في المتصفح  شخص.",
+        "originalPrice": "$86.99",
+        "discountedPrice": "$16.99",
+        "viewersText": "عرضه الآن في المتصفح <span class='viewer-count'>230</span> شخص.",
         "days": "أيام",
         "hours": "ساعات",
         "minutes": "دقائق",
@@ -61,9 +61,9 @@
     },
     "ma": {
         "offerMessage": "سارع قبل أن ينفد: الخصومات على هذه الخدمة ستنتهي قريبًا! الوقت المتبقي لإنهاء العرض:",
-        
-       
-        "viewersText": "شاهده الآن في المتصفح  شخص.",
+        "originalPrice": "$86.99",
+        "discountedPrice": "$16.99",
+        "viewersText": "شاهده الآن في المتصفح <span class='viewer-count'>230</span> شخص.",
         "days": "أيام",
         "hours": "ساعات",
         "minutes": "دقائق",
@@ -71,9 +71,9 @@
     },
     "default": {
         "offerMessage": "Hurry before it's gone: Discounts on this service are about to end! Time left for this offer to end:",
-        
-        
-        "viewersText": "View it in browser now  people.",
+        "originalPrice": "$86.99",
+        "discountedPrice": "$16.99",
+        "viewersText": "View it in browser now <span class='viewer-count'>230</span> people.",
         "days": "Days",
         "hours": "Hours",
         "minutes": "Minutes",
