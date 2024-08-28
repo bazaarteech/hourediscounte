@@ -61,8 +61,8 @@
     },
     "ma": {
         "offerMessage": "سارع قبل أن ينفد: الخصومات على هذه الخدمة ستنتهي قريبًا! الوقت المتبقي لإنهاء العرض:",
-        "originalPrice": "✖️ $86.99",
-        "discountedPrice": "$16.99",
+        
+        
         "viewersText": "شاهده الآن في المتصفح <span class='viewer-count'>230</span> شخص.",
         "days": "أيام",
         "hours": "ساعات",
