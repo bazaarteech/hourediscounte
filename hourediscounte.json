@@ -1,101 +1,121 @@
-{
-    "sa": {
-        "offerMessage": "سارع قبل أن ينفد: الخصومات على هذه الخدمة ستنتهي قريبًا! الوقت المتبقي لإنهاء العرض:",
-        "originalPrice": "<del>$86.99</del>",
-        "discountedPrice": "$16.99",
-        "viewersText": "عرضه الآن في المتصفح <span class='viewer-count'>230</span> شخص.",
-        "days": "أيام",
-        "hours": "ساعات",
-        "minutes": "دقائق",
-        "seconds": "ثواني"
-    },
-    "ae": {
-        "offerMessage": "عجل قبل أن ينفد: الخصومات على هذه الخدمة على وشك الانتهاء! الوقت المتبقي لإنهاء العرض:",
-        "originalPrice": "<del>$86.99</del>",
-        "discountedPrice": "$16.99",
-        "viewersText": "شاهده الآن في المتصفح <span class='viewer-count'>230</span> شخص.",
-        "days": "أيام",
-        "hours": "ساعات",
-        "minutes": "دقائق",
-        "seconds": "ثواني"
-    },
-    "kw": {
-        "offerMessage": "سارع قبل أن ينفد: الخصومات على هذه الخدمة ستنتهي قريبًا! الوقت المتبقي لإنهاء العرض:",
-        "originalPrice": "<del>$86.99</del>",
-        "discountedPrice": "$16.99",
-        "viewersText": "عرضه الآن في المتصفح <span class='viewer-count'>230</span> شخص.",
-        "days": "أيام",
-        "hours": "ساعات",
-        "minutes": "دقائق",
-        "seconds": "ثواني"
-    },
-    "qa": {
-        "offerMessage": "سارع قبل أن ينفد: الخصومات على هذه الخدمة ستنتهي قريبًا! الوقت المتبقي لإنهاء العرض:",
-        "originalPrice": "<del>$86.99</del>",
-        "discountedPrice": "$16.99",
-        "viewersText": "شاهده الآن في المتصفح <span class='viewer-count'>230</span> شخص.",
-        "days": "أيام",
-        "hours": "ساعات",
-        "minutes": "دقائق",
-        "seconds": "ثواني"
-    },
-    "om": {
-        "offerMessage": "سارع قبل أن ينفد: الخصومات على هذه الخدمة ستنتهي قريبًا! الوقت المتبقي لإنهاء العرض:",
-        "originalPrice": "<del>$86.99</del>",
-        "discountedPrice": "$16.99",
-        "viewersText": "عرضه الآن في المتصفح <span class='viewer-count'>230</span> شخص.",
-        "days": "أيام",
-        "hours": "ساعات",
-        "minutes": "دقائق",
-        "seconds": "ثواني"
-    },
-    "bh": {
-        "offerMessage": "عجل قبل أن ينفد: الخصومات على هذه الخدمة ستنتهي قريبًا! الوقت المتبقي لإنهاء العرض:",
-        "originalPrice": "<del>$86.99</del>",
-        "discountedPrice": "$16.99",
-        "viewersText": "شاهده الآن في المتصفح <span class='viewer-count'>230</span> شخص.",
-        "days": "أيام",
-        "hours": "ساعات",
-        "minutes": "دقائق",
-        "seconds": "ثواني"
-    },
-    "ma": {
-        "offerMessage": "سارع قبل أن ينفد: الخصومات على هذه الخدمة ستنتهي قريبًا! الوقت المتبقي لإنهاء العرض:",
-        "originalPrice": "<del>$86.99</del>",
-        "discountedPrice": "$16.99",
-        "viewersText": "شاهده الآن في المتصفح <span class='viewer-count'>230</span><script>// تعريف المتغيرات
-let viewers = 230; // العدد الابتدائي
-const minViewers = 150; // العدد الأدنى
-const decrementStep = 1; // خطوة الإنقاص
-const delay = 1000; // زمن التأخير بالمللي ثانية (1 ثانية)
 
-function updateViewerCount() {
-    const viewerElement = document.querySelector('.viewer-count');
-    if (viewerElement) {
-        viewers -= decrementStep;
-        viewerElement.textContent = viewers;
+    <script>
+        // تعريف النصوص من ملف JSON
+        const translations = {
+            "sa": {
+                "offerMessage": "سارع قبل أن ينفد: الخصومات على هذه الخدمة ستنتهي قريبًا! الوقت المتبقي لإنهاء العرض:",
+                "originalPrice": "<del>$86.99</del>",
+                "discountedPrice": "$16.99",
+                "viewersText": "عرضه الآن في المتصفح <span class='viewer-count'>230</span> شخص.",
+                "days": "أيام",
+                "hours": "ساعات",
+                "minutes": "دقائق",
+                "seconds": "ثواني"
+            },
+            "ae": {
+                "offerMessage": "عجل قبل أن ينفد: الخصومات على هذه الخدمة على وشك الانتهاء! الوقت المتبقي لإنهاء العرض:",
+                "originalPrice": "<del>$86.99</del>",
+                "discountedPrice": "$16.99",
+                "viewersText": "شاهده الآن في المتصفح <span class='viewer-count'>230</span> شخص.",
+                "days": "أيام",
+                "hours": "ساعات",
+                "minutes": "دقائق",
+                "seconds": "ثواني"
+            },
+            "kw": {
+                "offerMessage": "سارع قبل أن ينفد: الخصومات على هذه الخدمة ستنتهي قريبًا! الوقت المتبقي لإنهاء العرض:",
+                "originalPrice": "<del>$86.99</del>",
+                "discountedPrice": "$16.99",
+                "viewersText": "عرضه الآن في المتصفح <span class='viewer-count'>230</span> شخص.",
+                "days": "أيام",
+                "hours": "ساعات",
+                "minutes": "دقائق",
+                "seconds": "ثواني"
+            },
+            "qa": {
+                "offerMessage": "سارع قبل أن ينفد: الخصومات على هذه الخدمة ستنتهي قريبًا! الوقت المتبقي لإنهاء العرض:",
+                "originalPrice": "<del>$86.99</del>",
+                "discountedPrice": "$16.99",
+                "viewersText": "شاهده الآن في المتصفح <span class='viewer-count'>230</span> شخص.",
+                "days": "أيام",
+                "hours": "ساعات",
+                "minutes": "دقائق",
+                "seconds": "ثواني"
+            },
+            "om": {
+                "offerMessage": "سارع قبل أن ينفد: الخصومات على هذه الخدمة ستنتهي قريبًا! الوقت المتبقي لإنهاء العرض:",
+                "originalPrice": "<del>$86.99</del>",
+                "discountedPrice": "$16.99",
+                "viewersText": "عرضه الآن في المتصفح <span class='viewer-count'>230</span> شخص.",
+                "days": "أيام",
+                "hours": "ساعات",
+                "minutes": "دقائق",
+                "seconds": "ثواني"
+            },
+            "bh": {
+                "offerMessage": "عجل قبل أن ينفد: الخصومات على هذه الخدمة ستنتهي قريبًا! الوقت المتبقي لإنهاء العرض:",
+                "originalPrice": "<del>$86.99</del>",
+                "discountedPrice": "$16.99",
+                "viewersText": "شاهده الآن في المتصفح <span class='viewer-count'>230</span> شخص.",
+                "days": "أيام",
+                "hours": "ساعات",
+                "minutes": "دقائق",
+                "seconds": "ثواني"
+            },
+            "ma": {
+                "offerMessage": "سارع قبل أن ينفد: الخصومات على هذه الخدمة ستنتهي قريبًا! الوقت المتبقي لإنهاء العرض:",
+                "originalPrice": "<del>$86.99</del>",
+                "discountedPrice": "$16.99",
+                "viewersText": "شاهده الآن في المتصفح <span class='viewer-count'>230</span> شخص.",
+                "days": "أيام",
+                "hours": "ساعات",
+                "minutes": "دقائق",
+                "seconds": "ثواني"
+            },
+            "default": {
+                "offerMessage": "Hurry before it's gone: Discounts on this service are about to end! Time left for this offer to end:",
+                "originalPrice": "<del>$86.99</del>",
+                "discountedPrice": "$16.99",
+                "viewersText": "View it in browser now <span class='viewer-count'>230</span> people.",
+                "days": "Days",
+                "hours": "Hours",
+                "minutes": "Minutes",
+                "seconds": "Seconds"
+            }
+        };
 
-        if (viewers <= minViewers) {
-            viewers = 230; // إعادة التعيين إلى العدد الابتدائي
+        // تحديد اللغة بناءً على البيانات المتاحة
+        const userLang = 'sa'; // يمكن تغييرها بناءً على اللغة الحالية
+        const translation = translations[userLang] || translations['default'];
+
+        // تحديث النصوص في الصفحة
+        document.getElementById('offer-message').innerHTML = translation.offerMessage;
+        document.getElementById('original-price').innerHTML = translation.originalPrice;
+        document.getElementById('discounted-price').innerHTML = translation.discountedPrice;
+        document.getElementById('viewers-text').innerHTML = translation.viewersText;
+        document.getElementById('days').innerHTML = translation.days;
+        document.getElementById('hours').innerHTML = translation.hours;
+        document.getElementById('minutes').innerHTML = translation.minutes;
+        document.getElementById('seconds').innerHTML = translation.seconds;
+
+        // تعريف المتغيرات
+        let viewers = 230; // العدد الابتدائي
+        const minViewers = 150; // العدد الأدنى
+        const decrementStep = 1; // خطوة الإنقاص
+        const delay = 1000; // زمن التأخير بالمللي ثانية (1 ثانية)
+
+        function updateViewerCount() {
+            const viewerElement = document.querySelector('.viewer-count');
+            if (viewerElement) {
+                viewers -= decrementStep;
+                viewerElement.textContent = viewers;
+
+                if (viewers <= minViewers) {
+                    viewers = 230; // إعادة التعيين إلى العدد الابتدائي
+                }
+            }
         }
-    }
-}
 
-// تكرار العملية كل ثانية
-setInterval(updateViewerCount, delay);</script> شخص.",
-        "days": "أيام",
-        "hours": "ساعات",
-        "minutes": "دقائق",
-        "seconds": "ثواني"
-    },
-    "default": {
-        "offerMessage": "Hurry before it's gone: Discounts on this service are about to end! Time left for this offer to end:",
-        "originalPrice": "<del>$86.99</del>",
-        "discountedPrice": "$16.99",
-        "viewersText": "View it in browser now <span class='viewer-count'>230</span> people.",
-        "days": "Days",
-        "hours": "Hours",
-        "minutes": "Minutes",
-        "seconds": "Seconds"
-    }
-}
+        // تكرار العملية كل ثانية
+        setInterval(updateViewerCount, delay);
+    </script>
