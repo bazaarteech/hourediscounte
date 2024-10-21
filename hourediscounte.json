@@ -1,82 +1,30 @@
 {
-    "sa": {
-        "offerMessage": "سارع قبل أن ينفد: الخصومات على هذه الخدمة ستنتهي قريبًا! الوقت المتبقي لإنهاء العرض:",
-        "originalPrice": "<del style='color: red;'>$86.99</del>",
-        "discountedPrice": "$16.99",
-        "viewersText": "عرضه الآن في المتصفح <span class='viewer-count'>230</span> شخص.",
-        "days": "أيام",
-        "hours": "ساعات",
-        "minutes": "دقائق",
-        "seconds": "ثواني"
-    },
-    "ae": {
-        "offerMessage": "عجل قبل أن ينفد: الخصومات على هذه الخدمة على وشك الانتهاء! الوقت المتبقي لإنهاء العرض:",
-        "originalPrice": "<del style='color: red;'>$86.99</del>",
-        "discountedPrice": "$16.99",
-        "viewersText": "شاهده الآن في المتصفح <span class='viewer-count'>230</span> شخص.",
-        "days": "أيام",
-        "hours": "ساعات",
-        "minutes": "دقائق",
-        "seconds": "ثواني"
-    },
-    "kw": {
-        "offerMessage": "سارع قبل أن ينفد: الخصومات على هذه الخدمة ستنتهي قريبًا! الوقت المتبقي لإنهاء العرض:",
-        "originalPrice": "<del style='color: red;'>$86.99</del>",
-        "discountedPrice": "$16.99",
-        "viewersText": "عرضه الآن في المتصفح <span class='viewer-count'>230</span> شخص.",
-        "days": "أيام",
-        "hours": "ساعات",
-        "minutes": "دقائق",
-        "seconds": "ثواني"
-    },
-    "qa": {
-        "offerMessage": "سارع قبل أن ينفد: الخصومات على هذه الخدمة ستنتهي قريبًا! الوقت المتبقي لإنهاء العرض:",
-        "originalPrice": "<del style='color: red;'>$86.99</del>",
-        "discountedPrice": "$16.99",
-        "viewersText": "شاهده الآن في المتصفح <span class='viewer-count'>230</span> شخص.",
-        "days": "أيام",
-        "hours": "ساعات",
-        "minutes": "دقائق",
-        "seconds": "ثواني"
-    },
-    "om": {
-        "offerMessage": "سارع قبل أن ينفد: الخصومات على هذه الخدمة ستنتهي قريبًا! الوقت المتبقي لإنهاء العرض:",
-        "originalPrice": "<del style='color: red;'>$86.99</del>",
-        "discountedPrice": "$16.99",
-        "viewersText": "عرضه الآن في المتصفح <span class='viewer-count'>230</span> شخص.",
-        "days": "أيام",
-        "hours": "ساعات",
-        "minutes": "دقائق",
-        "seconds": "ثواني"
-    },
-    "bh": {
-        "offerMessage": "عجل قبل أن ينفد: الخصومات على هذه الخدمة ستنتهي قريبًا! الوقت المتبقي لإنهاء العرض:",
-        "originalPrice": "<del style='color: red;'>$86.99</del>",
-        "discountedPrice": "$16.99",
-        "viewersText": "شاهده الآن في المتصفح <span class='viewer-count'>230</span> شخص.",
-        "days": "أيام",
-        "hours": "ساعات",
-        "minutes": "دقائق",
-        "seconds": "ثواني"
-    },
-    "ma": {
-        "offerMessage": "سارع قبل أن ينفد: الخصومات على هذه الخدمة ستنتهي قريبًا! الوقت المتبقي لإنهاء العرض:",
-        "originalPrice": "<del style='color: red;'>$86.99</del>",
-        "discountedPrice": "$16.99",
-        "viewersText": "شاهده الآن في المتصفح <span class='viewer-count'>230</span> شخص.",
-        "days": "أيام",
-        "hours": "ساعات",
-        "minutes": "دقائق",
-        "seconds": "ثواني"
-    },
-    "default": {
-        "offerMessage": "Hurry before it's gone: Discounts on this service are about to end! Time left for this offer to end:",
-        "originalPrice": "<del style='color: red;'>$86.99</del>",
-        "discountedPrice": "$16.99",
-        "viewersText": "View it in browser now <span class='viewer-count'>230</span> people.",
+    "en": {
+        "offerMessage": "Hurry before it's gone: discounts on this service will end soon! Time left to complete the offer:",
         "days": "Days",
         "hours": "Hours",
         "minutes": "Minutes",
         "seconds": "Seconds"
+    },
+    "ar": {
+        "offerMessage": "سارع قبل أن ينفد: الخصومات على هذه الخدمة ستنتهي قريبًا! الوقت المتبقي لإنهاء العرض:",
+        "days": "أيام",
+        "hours": "ساعات",
+        "minutes": "دقائق",
+        "seconds": "ثواني"
+    },
+    "es": {
+        "offerMessage": "Date prisa antes de que se acabe: ¡los descuentos en este servicio están a punto de terminar! Tiempo restante para completar la oferta:",
+        "days": "Días",
+        "hours": "Horas",
+        "minutes": "Minutos",
+        "seconds": "Segundos"
+    },
+    "fr": {
+        "offerMessage": "Dépêchez-vous avant que cela ne disparaisse : les réductions sur ce service se termineront bientôt ! Temps restant pour terminer l'offre :",
+        "days": "Jours",
+        "hours": "Heures",
+        "minutes": "Minutes",
+        "seconds": "Secondes"
     }
 }
