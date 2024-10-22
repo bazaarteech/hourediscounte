@@ -1,27 +1,31 @@
 {
-    "en": {
-        "offerMessage": "Hurry before it's gone: discounts on this service will end soon! Time left to complete the offer:",
-        "days": "Days",
-        "hours": "Hours",
-        "minutes": "Minutes",
-        "seconds": "Seconds"
-    },
     "ar": {
-        "offerMessage": "سارع قبل أن ينفد: الخصومات على هذه الخدمة ستنتهي قريبًا! الوقت المتبقي لإنهاء العرض:",
+        "offerMessage": "عجل قبل أن يفوتك: التخفيضات على هذه الخدمة على وشك الانتهاء! الوقت المتبقي لإنهاء هذا العرض:",
+        "viewersText": "شاهدها في المتصفح الآن <span class=\"viewer-count\">230</span> شخص.",
         "days": "أيام",
         "hours": "ساعات",
         "minutes": "دقائق",
         "seconds": "ثواني"
     },
     "es": {
-        "offerMessage": "Date prisa antes de que se acabe: ¡los descuentos en este servicio están a punto de terminar! Tiempo restante para completar la oferta:",
+        "offerMessage": "¡Apresúrate antes de que se acabe: los descuentos en este servicio están a punto de terminar! Tiempo restante para que termine esta oferta:",
+        "viewersText": "Velo en el navegador ahora <span class=\"viewer-count\">230</span> personas.",
         "days": "Días",
         "hours": "Horas",
         "minutes": "Minutos",
         "seconds": "Segundos"
     },
+    "en": {
+        "offerMessage": "Hurry before it's gone: Discounts on this service are about to end! Time left for this offer to end:",
+        "viewersText": "View it in browser now <span class=\"viewer-count\">230</span> people.",
+        "days": "Days",
+        "hours": "Hours",
+        "minutes": "Minutes",
+        "seconds": "Seconds"
+    },
     "fr": {
-        "offerMessage": "Dépêchez-vous avant que cela ne disparaisse : les réductions sur ce service se termineront bientôt ! Temps restant pour terminer l'offre :",
+        "offerMessage": "Dépêchez-vous avant que ça ne disparaisse : Les réductions sur ce service sont sur le point de se terminer ! Temps restant avant la fin de cette offre :",
+        "viewersText": "Regardez-le dans le navigateur maintenant <span class=\"viewer-count\">230</span> personnes.",
         "days": "Jours",
         "hours": "Heures",
         "minutes": "Minutes",
