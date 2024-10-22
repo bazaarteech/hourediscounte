@@ -1,19 +1,19 @@
 {
     "ar": {
-        "offerMessage": "عجل قبل أن يفوتك: التخفيضات على هذه الخدمة على وشك الانتهاء! الوقت المتبقي لإنهاء هذا العرض:",
+        "offerMessage": "أسرع قبل أن ينتهي: التخفيضات على هذه الخدمة على وشك الانتهاء! الوقت المتبقي لإنهاء هذا العرض:",
         "viewersText": "شاهدها في المتصفح الآن <span class=\"viewer-count\">230</span> شخص.",
         "days": "أيام",
         "hours": "ساعات",
         "minutes": "دقائق",
         "seconds": "ثواني"
     },
-    "es": {
-        "offerMessage": "¡Apresúrate antes de que se acabe: los descuentos en este servicio están a punto de terminar! Tiempo restante para que termine esta oferta:",
-        "viewersText": "Velo en el navegador ahora <span class=\"viewer-count\">230</span> personas.",
-        "days": "Días",
-        "hours": "Horas",
-        "minutes": "Minutos",
-        "seconds": "Segundos"
+    "fr": {
+        "offerMessage": "Dépêchez-vous avant qu'il ne soit trop tard : les réductions sur ce service sont sur le point de se terminer ! Temps restant avant la fin de cette offre :",
+        "viewersText": "Visionnez-le maintenant dans le navigateur <span class=\"viewer-count\">230</span> personnes.",
+        "days": "Jours",
+        "hours": "Heures",
+        "minutes": "Minutes",
+        "seconds": "Secondes"
     },
     "en": {
         "offerMessage": "Hurry before it's gone: Discounts on this service are about to end! Time left for this offer to end:",
@@ -23,12 +23,12 @@
         "minutes": "Minutes",
         "seconds": "Seconds"
     },
-    "fr": {
-        "offerMessage": "Dépêchez-vous avant que ça ne disparaisse : Les réductions sur ce service sont sur le point de se terminer ! Temps restant avant la fin de cette offre :",
-        "viewersText": "Regardez-le dans le navigateur maintenant <span class=\"viewer-count\">230</span> personnes.",
-        "days": "Jours",
-        "hours": "Heures",
-        "minutes": "Minutes",
-        "seconds": "Secondes"
+    "es": {
+        "offerMessage": "¡Apresúrate antes de que se acabe! Los descuentos en este servicio están a punto de terminar. Tiempo restante para que finalice esta oferta:",
+        "viewersText": "Velo en el navegador ahora <span class=\"viewer-count\">230</span> personas.",
+        "days": "Días",
+        "hours": "Horas",
+        "minutes": "Minutos",
+        "seconds": "Segundos"
     }
 }
