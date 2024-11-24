@@ -1,7 +1,7 @@
 {
     "ar": {
         "offerMessage": "أسرع قبل أن ينتهي: التخفيضات على هذا العرض على وشك الانتهاء! الوقت المتبقي لإنهاء هذا العرض:",
-        "discountedpricespan": "لكل سنتين",
+        
         "viewersText": "الأشخاص الذين يشاهدون هذا العرض في المتصفح الأن ",
         
         "daysUnit": "أيام",
@@ -11,7 +11,7 @@
     },
     "fr": {
         "offerMessage": "Dépêchez-vous avant qu'il ne soit trop tard : les réductions sur ce offre sont sur le point de se terminer ! Temps restant avant la fin de cette offre :",
-        "discountedpricespan": "par 2 ans",
+        
         "viewersText": "Visionnez-le maintenant dans le navigateur: ",
         
         "daysUnit": "Jours",
@@ -21,7 +21,7 @@
     },
     "en": {
         "offerMessage": "Hurry before it's gone: Discounts on this offer are about to end! Time left for this offer to end:",
-        "discountedpricespan": "per 2 year",
+        
         "viewersText": "View it in browser now: ",
         
         "daysUnit": "Days",
@@ -31,7 +31,7 @@
     },
     "es": {
         "offerMessage": "¡Apresúrate antes de que se acabe! Los descuentos en este oferta están a punto de terminar. Tiempo restante para que finalice esta oferta:",
-        "discountedpricespan": "por 2 años",
+        
         "viewersText": "Velo en el navegador ahora: ",
         
         "daysUnit": "Días",
