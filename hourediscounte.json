@@ -1,6 +1,6 @@
 {
     "ar": {
-        "offerMessage": "أسرع قبل أن ينتهي: التخفيضات على هذه الخدمة على وشك الانتهاء! الوقت المتبقي لإنهاء هذا العرض:",
+        "offerMessage": "أسرع قبل أن ينتهي: التخفيضات على هذا العرض على وشك الانتهاء! الوقت المتبقي لإنهاء هذا العرض:",
         "discountedpricespan": "لكل سنتين",
         "viewersText": "الأشخاص الذين يشاهدون هذا العرض في المتصفح الأن ",
         
@@ -10,7 +10,7 @@
         "secondsUnit": "ثواني"
     },
     "fr": {
-        "offerMessage": "Dépêchez-vous avant qu'il ne soit trop tard : les réductions sur ce service sont sur le point de se terminer ! Temps restant avant la fin de cette offre :",
+        "offerMessage": "Dépêchez-vous avant qu'il ne soit trop tard : les réductions sur ce offre sont sur le point de se terminer ! Temps restant avant la fin de cette offre :",
         "discountedpricespan": "par 2 ans",
         "viewersText": "Visionnez-le maintenant dans le navigateur: ",
         
@@ -20,7 +20,7 @@
         "secondsUnit": "Secondes"
     },
     "en": {
-        "offerMessage": "Hurry before it's gone: Discounts on this service are about to end! Time left for this offer to end:",
+        "offerMessage": "Hurry before it's gone: Discounts on this offer are about to end! Time left for this offer to end:",
         "discountedpricespan": "per 2 year",
         "viewersText": "View it in browser now: ",
         
@@ -30,7 +30,7 @@
         "secondsUnit": "Seconds"
     },
     "es": {
-        "offerMessage": "¡Apresúrate antes de que se acabe! Los descuentos en este servicio están a punto de terminar. Tiempo restante para que finalice esta oferta:",
+        "offerMessage": "¡Apresúrate antes de que se acabe! Los descuentos en este oferta están a punto de terminar. Tiempo restante para que finalice esta oferta:",
         "discountedpricespan": "por 2 años",
         "viewersText": "Velo en el navegador ahora: ",
         
