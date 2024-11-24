@@ -4,39 +4,39 @@
         "discountedpricespan": "لكل سنتين",
         "viewersText": "الأشخاص الذين يشاهدون هذا العرض في المتصفح الأن ",
         
-        "days": "أيام",
-        "hours": "ساعات",
-        "minutes": "دقائق",
-        "seconds": "ثواني"
+        "daysUnit": "أيام",
+        "hoursUnit": "ساعات",
+        "minutesUnit": "دقائق",
+        "secondsUnit": "ثواني"
     },
     "fr": {
         "offerMessage": "Dépêchez-vous avant qu'il ne soit trop tard : les réductions sur ce service sont sur le point de se terminer ! Temps restant avant la fin de cette offre :",
         "discountedpricespan": "par 2 ans",
         "viewersText": "Visionnez-le maintenant dans le navigateur: ",
         
-        "days": "Jours",
-        "hours": "Heures",
-        "minutes": "Minutes",
-        "seconds": "Secondes"
+        "daysUnit": "Jours",
+        "hoursUnit": "Heures",
+        "minutesUnit": "Minutes",
+        "secondsUnit": "Secondes"
     },
     "en": {
         "offerMessage": "Hurry before it's gone: Discounts on this service are about to end! Time left for this offer to end:",
         "discountedpricespan": "per 2 year",
         "viewersText": "View it in browser now: ",
         
-        "days": "Days",
-        "hours": "Hours",
-        "minutes": "Minutes",
-        "seconds": "Seconds"
+        "daysUnit": "Days",
+        "hoursUnit": "Hours",
+        "minutesUnit": "Minutes",
+        "secondsUnit": "Seconds"
     },
     "es": {
         "offerMessage": "¡Apresúrate antes de que se acabe! Los descuentos en este servicio están a punto de terminar. Tiempo restante para que finalice esta oferta:",
         "discountedpricespan": "por 2 años",
         "viewersText": "Velo en el navegador ahora: ",
         
-        "days": "Días",
-        "hours": "Horas",
-        "minutes": "Minutos",
-        "seconds": "Segundos"
+        "daysUnit": "Días",
+        "hoursUnit": "Horas",
+        "minutesUnit": "Minutos",
+        "secondsUnit": "Segundos"
     }
 }
