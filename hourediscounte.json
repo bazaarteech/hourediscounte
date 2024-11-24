@@ -2,8 +2,8 @@
     "ar": {
         "offerMessage": "أسرع قبل أن ينتهي: التخفيضات على هذه الخدمة على وشك الانتهاء! الوقت المتبقي لإنهاء هذا العرض:",
         "discountedpricespan": "لكل سنتين",
-        "viewersText": "يشاهده في المتصفح الآن",
-        "people": "شخص.",
+        "viewersText": "الأشخاص الذين يشاهدون هذا العرض في المتصفح الأن",
+        
         "days": "أيام",
         "hours": "ساعات",
         "minutes": "دقائق",
@@ -13,7 +13,7 @@
         "offerMessage": "Dépêchez-vous avant qu'il ne soit trop tard : les réductions sur ce service sont sur le point de se terminer ! Temps restant avant la fin de cette offre :",
         "discountedpricespan": "par 2 ans",
         "viewersText": "Visionnez-le maintenant dans le navigateur",
-        "people": "personnes.",
+        
         "days": "Jours",
         "hours": "Heures",
         "minutes": "Minutes",
@@ -23,7 +23,7 @@
         "offerMessage": "Hurry before it's gone: Discounts on this service are about to end! Time left for this offer to end:",
         "discountedpricespan": "per 2 year",
         "viewersText": "View it in browser now",
-        "people": "people.",
+        
         "days": "Days",
         "hours": "Hours",
         "minutes": "Minutes",
@@ -33,7 +33,7 @@
         "offerMessage": "¡Apresúrate antes de que se acabe! Los descuentos en este servicio están a punto de terminar. Tiempo restante para que finalice esta oferta:",
         "discountedpricespan": "por 2 años",
         "viewersText": "Velo en el navegador ahora",
-        "people": "personas.",
+        
         "days": "Días",
         "hours": "Horas",
         "minutes": "Minutos",
